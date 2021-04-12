@@ -1,12 +1,40 @@
-question
 {
-  "posts": [
+  "questions": [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "question": "13+4",
+      "answer1": "17"
+      "answer2": "38"
+      "answer3": "15"
+      "answer4": "9"
+    },
+     {
+      "question": "29-9",
+      "answer1": "8"
+      "answer2": "20"
+      "answer3": "19"
+      "answer4": "45"
+    },
+    {
+      "question": "16+90",
+      "answer1": "245"
+      "answer2": "32"
+      "answer3": "50"
+      "answer4": "106"
+    },
+    {
+      "question": "5-5",
+      "answer1": "0"
+      "answer2": "30"
+      "answer3": "73"
+      "answer4": "62"
+    },
+    {
+      "question": "64+15",
+      "answer1": "10"
+      "answer2": "71"
+      "answer3": "89"
+      "answer4": "91"
+    },
+  ]
+  
 }
