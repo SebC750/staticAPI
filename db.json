@@ -107,7 +107,7 @@
      "answer3": "home address",
      "answer4": "identification number",
      "correct": "1"
-	}
+	},
 	{
     "id": 13,
      "question" :"What does the document.getElementById(); syntax do?", 
@@ -116,7 +116,7 @@
      "answer3": "Gets an element or an input from the html id tag that it comes from.",
      "answer4": "Gets an element or an input from the html class tag that it comes from.",
      "correct": "3"
- }
+ },
  {
  	"id": 14,
      "question" :"Which method converts an arraylist value into a readable String format?", 
